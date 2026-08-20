@@ -32,7 +32,7 @@
 ## 🌍 MCoM
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/eb19e819-aab7-470f-8a41-977512adcb23" />
 
-### 🤖 AI 패치 커스텀
+## 🤖 AI 패치 커스텀
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/dec500de-82ff-4c11-a202-0d13a865a1be" />
 
 ---
@@ -43,7 +43,7 @@
 ---
 
 # 👥 팀원소개
-### Frontend
+## Frontend
 <table>
   <tbody>
     <tr>
@@ -72,7 +72,7 @@
   </tbody>
 </table>
 
-### Backend
+## Backend
 
 <table>
   <tbody>
@@ -100,7 +100,7 @@
 
 # 🛠 Tech Stack
 
-### Frontend
+## Frontend
 
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -108,14 +108,14 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-### Library
+## Library
 
 ![React Router](https://img.shields.io/badge/React_Router_DOM-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
-### Code Quality
+## Code Quality
 
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
@@ -123,6 +123,7 @@
 ---
 
 # 💾 ERD
+---
 
 # 📋 GitHub 협업 규칙
 
