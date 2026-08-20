@@ -11,35 +11,37 @@
 ---
 
 # 📌 프로젝트 소개
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/65c4af4d-7e0b-4f06-bfc3-009375c12294" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1e135a4f-41b3-4114-a28e-0af4aa1a8e96" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/493449aa-f1c7-4a52-abf7-e6d40d28b1a7" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/342983e5-0a4b-4ec5-9f1c-6f35f44ea63a" />
+
+
 
 ---
 
 
 # 🎯 기획 배경 / 문제 정의
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/02197872-f2f7-4c03-8394-3bf19528c175" />
-
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/2c9c1514-b3a5-46cd-8f18-da43f5c91e7d" />
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/0c2a856a-bd87-4302-b59d-28e5a76a0dc8" />
 
----
+
+--- 
 
 # ✨ 주요 기능
 
 ## ✈️ 여행 여정 기록
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/6d59360b-f3ed-475a-8d42-3682c2cc8fe2" />
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/551cdf27-796b-4e25-a695-92d6632a3b66" />
 
 ## 🌍 MCoM
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/eb19e819-aab7-470f-8a41-977512adcb23" />
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/39c61efc-0fdd-4efc-a4dc-ab3887611918" />
 
 ## 🤖 AI 패치 커스텀
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/dec500de-82ff-4c11-a202-0d13a865a1be" />
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/46707cff-1061-4023-9ac8-af69050b55ea" />
 
 ---
 
-
 # 💸 수익구조
-<!-- 수익구조 이미지 또는 설명 -->
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/bd67f58c-f082-4faa-bd94-b84140f6e8b8" />
+
 ---
 
 # 👥 팀원소개
