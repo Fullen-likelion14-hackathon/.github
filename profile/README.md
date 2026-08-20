@@ -14,15 +14,11 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/493449aa-f1c7-4a52-abf7-e6d40d28b1a7" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/342983e5-0a4b-4ec5-9f1c-6f35f44ea63a" />
 
-
-
 ---
-
 
 # 🎯 기획 배경 / 문제 정의
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/2c9c1514-b3a5-46cd-8f18-da43f5c91e7d" />
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/0c2a856a-bd87-4302-b59d-28e5a76a0dc8" />
-
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/53e38d96-adf5-4751-8492-af6c6249ad10" />
 
 --- 
 
