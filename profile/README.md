@@ -1,34 +1,35 @@
 # 👜 Fullen
+
 여행의 순간을 패치로 기록하고, 나만의 가방으로 완성하는 커스텀 플랫폼
+
 ---
+
 # ✍️ 소개 및 개요
 - **팀명** : MCMerge
 - **프로젝트 개발 기간** : 2026.08.01 ~ 2026.08.21
 - **배포 URL** : https://fullen-frontend.vercel.app/
 ---
 
-## 📌 프로젝트 소개
-**Fullen**은 여행에서 얻은 추억과 이미지를 패치로 제작하고,
-이를 가방에 커스텀하여 자신만의 여행 기록을 만들어가는 서비스입니다.
+# 📌 프로젝트 소개
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/65c4af4d-7e0b-4f06-bfc3-009375c12294" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1e135a4f-41b3-4114-a28e-0af4aa1a8e96" />
 
 ---
 
 
-## 🎯 기획 배경 / 문제 정의
+# 🎯 기획 배경 / 문제 정의
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/02197872-f2f7-4c03-8394-3bf19528c175" />
 
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/0c2a856a-bd87-4302-b59d-28e5a76a0dc8" />
 
 ---
 
-## ✨ 주요 기능
+# ✨ 주요 기능
 
-### ✈️ 여행 여정 기록
+## ✈️ 여행 여정 기록
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/6d59360b-f3ed-475a-8d42-3682c2cc8fe2" />
 
-### 🌍 MCoM
+## 🌍 MCoM
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/eb19e819-aab7-470f-8a41-977512adcb23" />
 
 ### 🤖 AI 패치 커스텀
@@ -37,11 +38,11 @@
 ---
 
 
-## 💸 수익구조
+# 💸 수익구조
 <!-- 수익구조 이미지 또는 설명 -->
 ---
 
-## 👥 팀원소개
+# 👥 팀원소개
 ### Frontend
 <table>
   <tbody>
@@ -97,7 +98,7 @@
 ---
 
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Frontend
 
@@ -121,9 +122,9 @@
 
 ---
 
-### 💾 ERD
+# 💾 ERD
 
-## 📋 GitHub 협업 규칙
+# 📋 GitHub 협업 규칙
 
 - 🌿 [Git Convention](https://github.com/Fullen-likelion14-hackathon/Fullen-Frontend/blob/main/docs/GIT.md)
 - 🎨 [CSS Convention](https://github.com/Fullen-likelion14-hackathon/Fullen-Frontend/blob/main/docs/CSS.md)
