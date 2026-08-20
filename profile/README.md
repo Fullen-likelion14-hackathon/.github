@@ -1,20 +1,19 @@
 # 👜 Fullen
 여행의 순간을 패치로 기록하고, 나만의 가방으로 완성하는 커스텀 플랫폼
-
+---
 # ✍️ 소개 및 개요
 - **팀명** : MCMerge
 - **프로젝트 개발 기간** : 2026.08.01 ~ 2026.08.21
 - **배포 URL** : https://fullen-frontend.vercel.app/
-
+---
 
 ## 📌 프로젝트 소개
 **Fullen**은 여행에서 얻은 추억과 이미지를 패치로 제작하고,
 이를 가방에 커스텀하여 자신만의 여행 기록을 만들어가는 서비스입니다.
-
-AI 기반 패치 제작부터 작가와의 1:1 커스텀, 여행 기록 공유까지
-하나의 서비스에서 경험할 수 있습니다.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1e135a4f-41b3-4114-a28e-0af4aa1a8e96" />
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/65c4af4d-7e0b-4f06-bfc3-009375c12294" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1e135a4f-41b3-4114-a28e-0af4aa1a8e96" />
+
+---
 
 
 ## 🎯 기획 배경 / 문제 정의
@@ -22,26 +21,25 @@ AI 기반 패치 제작부터 작가와의 1:1 커스텀, 여행 기록 공유�
 
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/0c2a856a-bd87-4302-b59d-28e5a76a0dc8" />
 
+---
 
 ## ✨ 주요 기능
-### 🤖 AI 패치 커스텀
-AI를 활용하여 여행 사진을 패치로 제작하고 원하는 작가와 프레임을 선택할 수 있습니다.
 
-[GIF]
-
-### 🎨 1:1 커스텀
-원하는 사진과 작가를 선택하고 가방 위 패치 위치 및 요청사항을 지정할 수 있습니다.
-
-[GIF]
+### ✈️ 여행 여정 기록
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/6d59360b-f3ed-475a-8d42-3682c2cc8fe2" />
 
 ### 🌍 MCoM
-다른 사용자의 여행 기록과 커스텀 가방을 국가별/글로벌 피드에서 확인할 수 있습니다.
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/eb19e819-aab7-470f-8a41-977512adcb23" />
 
-[GIF]
+### 🤖 AI 패치 커스텀
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/dec500de-82ff-4c11-a202-0d13a865a1be" />
+
+---
+
 
 ## 💸 수익구조
 <!-- 수익구조 이미지 또는 설명 -->
+---
 
 ## 👥 팀원소개
 ### Frontend
@@ -96,6 +94,8 @@ AI를 활용하여 여행 사진을 패치로 제작하고 원하는 작가와 �
   </tbody>
 </table>
 
+---
+
 
 ## 🛠 Tech Stack
 
@@ -118,6 +118,8 @@ AI를 활용하여 여행 사진을 패치로 제작하고 원하는 작가와 �
 
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+
+---
 
 ### 💾 ERD
 
